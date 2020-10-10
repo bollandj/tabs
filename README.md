@@ -6,7 +6,7 @@ An assortment of transcribed guitar and bass tabs
 - Hey
 - EOYO (chords)
 - EOYO (bass)
-- Lollipop (Ode to Jim) (Intro)
+- Lollipop (Ode to Jim) (intro)
 - Saved by a Waif
 - Supine Equine
 
