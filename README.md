@@ -5,6 +5,7 @@ An assortment of transcribed guitar and bass tabs
 - Already Gone
 - Hey
 - EOYO (chords)
+- EOYO (bass)
 - Lollipop (Ode to Jim) (Intro)
 - Saved by a Waif
 - Supine Equine
@@ -24,3 +25,6 @@ An assortment of transcribed guitar and bass tabs
 - Pirouette
 - Pirouette (bass)
 - Witching Hour (bass)
+
+**Women**
+- Heat Distraction (bass)
