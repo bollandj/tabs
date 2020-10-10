@@ -1,1 +1,26 @@
 # tabs
+An assortment of transcribed guitar and bass tabs
+## List of completed tabs, grouped by artist:
+**Alvvays**
+- Already Gone
+- Hey
+- EOYO (chords)
+- Lollipop (Ode to Jim) (Intro)
+- Saved by a Waif
+- Supine Equine
+
+**The Beths**
+- You Wouldn't Like Me
+
+**The Primitives**
+- Carry Me Home
+
+**Silver Jews**
+- People
+
+**TOPS**
+- Direct Sunlight (bass)
+- The Hollow Sound of the Morning Chimes (solo)
+- Pirouette
+- Pirouette (bass)
+- Witching Hour (bass)
