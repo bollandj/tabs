@@ -28,3 +28,4 @@ An assortment of transcribed guitar and bass tabs
 
 **Women**
 - Heat Distraction (bass)
+- Eyesore (bass)
