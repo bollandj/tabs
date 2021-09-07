@@ -13,11 +13,15 @@ An assortment of transcribed guitar and bass tabs
 **The Beths**
 - You Wouldn't Like Me
 
+**En Attendant Ana**
+- Flesh or Blood
+
 **The Primitives**
 - Carry Me Home
 
 **Silver Jews**
 - People
+- People (bass)
 
 **TOPS**
 - Direct Sunlight (bass)
