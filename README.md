@@ -10,6 +10,9 @@ An assortment of transcribed guitar and bass tabs
 - Saved by a Waif
 - Supine Equine
 
+**Animal Collective**
+- Prester John (bass)
+
 **The Beths**
 - You Wouldn't Like Me
 
